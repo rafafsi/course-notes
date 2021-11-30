@@ -23,18 +23,10 @@
 
 ## Shortcuts Eclipse
 
-ctrl + N new
-ctrl + 3 new constructor of existing variables
-F2 in folder renames everywhere
-ctrl + M expands the main screen
-ctrl + D delete the line
-ctrl + shift + F reformat lines
-alt + ↑ or ↓ change text up or down
-ctrl + shift + O to import a class underlined in red
-ctrl + shift + T search for a class
+![image-20211130182821071](C:\Users\rafae\AppData\Roaming\Typora\typora-user-images\image-20211130182821071.png)
 
 
 
-## What I do
+## What I did
 
 https://github.com/rafafsi/dio-curso-dominando-ides-java
