@@ -2,7 +2,7 @@
 
 ### SHA-1:
 
-​	It means Secure Hash Algorithm that is a cryptographic hash function wish takes an input and produces a hash value with 40 characters. It's a very secure way to represents a file state.
+	It means Secure Hash Algorithm that is a cryptographic hash function wish takes an input and produces a hash value with 40 characters. It's a very secure way to represents a file state.
 
 ### **Git Objects**:
 
@@ -29,6 +29,3 @@
 - **Working Area**: is the files that are not in the staging area; where are the untracked files.
 - **Staging Area**: is the files are going to be a part of your next commit; now the Git knows about this files.
 - **Local Repository**: the place where are the files after the commit.
-
-
-
